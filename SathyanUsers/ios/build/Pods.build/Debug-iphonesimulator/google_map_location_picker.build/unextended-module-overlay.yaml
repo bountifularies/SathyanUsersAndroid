@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/google_map_location_picker/google_map_location_picker.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/google_map_location_picker.build/unextended-module.modulemap',
+    }]
+  }]
+}

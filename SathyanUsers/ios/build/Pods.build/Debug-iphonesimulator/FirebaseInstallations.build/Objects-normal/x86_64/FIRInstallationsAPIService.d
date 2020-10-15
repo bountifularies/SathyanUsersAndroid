@@ -1,0 +1,53 @@
+dependencies: \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsAPI/FIRInstallationsAPIService.m \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/FirebaseInstallations.build/module.modulemap \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsAPI/FIRInstallationsAPIService.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallationsVersion.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromises.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/PromisesObjC.build/module.modulemap \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Wrap.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Validate.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Timeout.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Then.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Testing.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Retry.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Reduce.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Recover.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Race.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Do.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Delay.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Catch.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Await.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Async.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Any.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Always.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromiseError.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+All.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Target\ Support\ Files/PromisesObjC/PromisesObjC-umbrella.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstallations/FirebaseCore/Sources/Private/FirebaseCoreInternal.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCore.build/module.modulemap \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FirebaseCore.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstallations/FirebaseCore/Sources/Private/FIRAppInternal.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstallations/FirebaseCore/Sources/Private/FIRErrors.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstallations/FirebaseCore/Sources/Private/FIRErrorCode.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstallations/FirebaseCore/Sources/Private/FIRComponent.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstallations/FirebaseCore/Sources/Private/FIRComponentContainer.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstallations/FirebaseCore/Sources/Private/FIRComponentType.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstallations/FirebaseCore/Sources/Private/FIRLibrary.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstallations/FirebaseCore/Sources/Private/FIRDependency.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstallations/FirebaseCore/Sources/Private/FIRHeartbeatInfo.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstallations/FirebaseCore/Sources/Private/FIRLogger.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstallations/FirebaseCore/Sources/Private/FIROptionsInternal.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Errors/FIRInstallationsErrorUtil.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallationsErrors.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Errors/FIRInstallationsHTTPError.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallationsLogger.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsAPI/FIRInstallationsItem+RegisterInstallationAPI.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallationsItem.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsIDController/FIRInstallationsStatus.h

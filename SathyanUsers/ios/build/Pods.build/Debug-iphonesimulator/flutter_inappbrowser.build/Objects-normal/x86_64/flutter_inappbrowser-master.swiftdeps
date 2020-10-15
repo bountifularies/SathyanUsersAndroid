@@ -1,0 +1,18 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "9985763b8b93187a5f75f5823c4f43f9"
+build_time: [1602777127, 588864000]
+inputs:
+  "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-2.0.2/ios/Classes/CredentialDatabase.swift": [1574641298, 0]
+  "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-2.0.2/ios/Classes/CustomeSchemeHandler.swift": [1574194524, 0]
+  "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-2.0.2/ios/Classes/FlutterWebViewController.swift": [1574194524, 0]
+  "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-2.0.2/ios/Classes/FlutterWebViewFactory.swift": [1574194524, 0]
+  "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-2.0.2/ios/Classes/InAppBrowserOptions.swift": [1574194524, 0]
+  "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-2.0.2/ios/Classes/InAppBrowserWebViewController.swift": [1574194524, 0]
+  "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-2.0.2/ios/Classes/InAppWebView.swift": [1574293796, 0]
+  "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-2.0.2/ios/Classes/InAppWebViewOptions.swift": [1574194524, 0]
+  "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-2.0.2/ios/Classes/MyCookieManager.swift": [1574194524, 0]
+  "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-2.0.2/ios/Classes/Options.swift": [1574194524, 0]
+  "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-2.0.2/ios/Classes/SafariBrowserOptions.swift": [1574194524, 0]
+  "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-2.0.2/ios/Classes/SafariViewController.swift": [1574194524, 0]
+  "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-2.0.2/ios/Classes/SwiftFlutterPlugin.swift": [1574194524, 0]
+  "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-2.0.2/ios/Classes/WKProcessPoolManager.swift": [1574194524, 0]

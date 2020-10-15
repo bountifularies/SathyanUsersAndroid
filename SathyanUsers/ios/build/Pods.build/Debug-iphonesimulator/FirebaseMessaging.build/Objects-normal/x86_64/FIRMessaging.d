@@ -1,0 +1,53 @@
+dependencies: \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessaging.m \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/FirebaseMessaging.build/module.modulemap \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/FirebaseInstanceID.build/module.modulemap \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/Private/FIRInstanceID_Private.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/Public/FIRInstanceID.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/Public/FirebaseInstanceID.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Target\ Support\ Files/FirebaseInstanceID/FirebaseInstanceID-umbrella.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Public/FIRMessaging.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Public/FIRMessagingExtensionHelper.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/FirebaseCore/Sources/Private/FirebaseCoreInternal.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCore.build/module.modulemap \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FirebaseCore.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/FirebaseCore/Sources/Private/FIRAppInternal.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/FirebaseCore/Sources/Private/FIRErrors.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/FirebaseCore/Sources/Private/FIRErrorCode.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/FirebaseCore/Sources/Private/FIRComponent.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/FirebaseCore/Sources/Private/FIRComponentContainer.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/FirebaseCore/Sources/Private/FIRComponentType.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/FirebaseCore/Sources/Private/FIRLibrary.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/FirebaseCore/Sources/Private/FIRDependency.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/FirebaseCore/Sources/Private/FIRHeartbeatInfo.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/FirebaseCore/Sources/Private/FIRLogger.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/FirebaseCore/Sources/Private/FIROptionsInternal.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Interop/FIRMessagingInterop.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/GoogleUtilities/AppDelegateSwizzler/Private/GULAppDelegateSwizzler.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/GoogleUtilities.build/module.modulemap \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleUtilities/GoogleUtilities/AppDelegateSwizzler/Private/GULApplication.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/GoogleUtilities/Reachability/Private/GULReachabilityChecker.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/GoogleUtilities/UserDefaults/Private/GULUserDefaults.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/Interop/Analytics/Public/FIRAnalyticsInterop.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingAnalytics.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingClient.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingConstants.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingContextManagerService.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingDataMessageManager.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingDefines.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingLogger.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMMessageCode.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingPubSub.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingReceiver.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingRemoteNotificationsProxy.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingRmqManager.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingSyncMessageManager.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingUtilities.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingVersionUtilities.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessaging_Private.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/NSError+FIRMessaging.h

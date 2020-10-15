@@ -1,0 +1,10 @@
+framework module flutter_inappbrowser {
+  umbrella header "flutter_inappbrowser-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module flutter_inappbrowser.__Swift {
+    exclude header "flutter_inappbrowser-Swift.h"
+}

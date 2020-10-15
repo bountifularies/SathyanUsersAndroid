@@ -1,0 +1,49 @@
+dependencies: \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceID.m \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/FirebaseInstanceID.build/module.modulemap \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/Public/FIRInstanceID.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/FirebaseInstallations/Source/Library/Private/FirebaseInstallationsInternal.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/FirebaseInstallations.build/module.modulemap \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallationsVersion.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallationsErrors.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallationsAuthTokenResult.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallations.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FirebaseInstallations.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Target\ Support\ Files/FirebaseInstallations/FirebaseInstallations-umbrella.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/Private/FIRInstanceID+Private.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/Private/FIRInstanceIDCheckinPreferences.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDAuthService.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDCheckinService.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDUtilities.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDCombinedHandler.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDConstants.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDDefines.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDLogger.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRIMessageCode.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDStore.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenInfo.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDAPNSInfo.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenManager.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDVersionUtilities.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/FirebaseCore/Sources/Private/FirebaseCoreInternal.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCore.build/module.modulemap \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FirebaseCore.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/FirebaseCore/Sources/Private/FIRAppInternal.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/FirebaseCore/Sources/Private/FIRErrors.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/FirebaseCore/Sources/Private/FIRErrorCode.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/FirebaseCore/Sources/Private/FIRComponent.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/FirebaseCore/Sources/Private/FIRComponentContainer.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/FirebaseCore/Sources/Private/FIRComponentType.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/FirebaseCore/Sources/Private/FIRLibrary.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/FirebaseCore/Sources/Private/FIRDependency.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/FirebaseCore/Sources/Private/FIRHeartbeatInfo.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/FirebaseCore/Sources/Private/FIRLogger.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/FirebaseCore/Sources/Private/FIROptionsInternal.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/GoogleUtilities/Environment/Private/GULAppEnvironmentUtil.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/GoogleUtilities/UserDefaults/Private/GULUserDefaults.h \
+  /Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/NSError+FIRInstanceID.h

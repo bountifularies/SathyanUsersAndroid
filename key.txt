@@ -1,0 +1,3 @@
+storePassword=sathyan!@#
+keyPassword=sathyan!@#$
+keyAlias=sathyan

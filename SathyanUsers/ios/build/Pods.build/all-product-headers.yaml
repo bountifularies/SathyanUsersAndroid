@@ -1,0 +1,1673 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/FMDB/FMDB.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FMDB-Swift.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/FMDB/FMDB.framework/Headers/FMDB-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "FMDB-umbrella.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Target Support Files/FMDB/FMDB-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "FMDB.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FMDB/src/fmdb/FMDB.h"
+        },
+        {
+          'type': 'file',
+          'name': "FMDatabase.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FMDB/src/fmdb/FMDatabase.h"
+        },
+        {
+          'type': 'file',
+          'name': "FMDatabaseAdditions.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FMDB/src/fmdb/FMDatabaseAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "FMDatabasePool.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FMDB/src/fmdb/FMDatabasePool.h"
+        },
+        {
+          'type': 'file',
+          'name': "FMDatabaseQueue.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FMDB/src/fmdb/FMDatabaseQueue.h"
+        },
+        {
+          'type': 'file',
+          'name': "FMResultSet.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FMDB/src/fmdb/FMResultSet.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/FMDB/FMDB.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/FMDB.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FIRApp.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRConfiguration.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRLoggerLevel.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIROptions.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h"
+        },
+        {
+          'type': 'file',
+          'name': "FirebaseCore-Swift.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FirebaseCore-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "FirebaseCore-umbrella.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Target Support Files/FirebaseCore/FirebaseCore-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "FirebaseCore.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FirebaseCore.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCore.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/PrivateHeaders",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FIRAppInternal.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRAppInternal.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRComponent.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRComponent.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRComponentContainer.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRComponentContainer.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRComponentType.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRComponentType.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRCoreDiagnosticsConnector.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRCoreDiagnosticsConnector.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRDependency.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRDependency.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRErrorCode.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRErrorCode.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRErrors.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRErrors.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRHeartbeatInfo.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRHeartbeatInfo.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRLibrary.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRLibrary.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRLogger.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRLogger.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIROptionsInternal.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIROptionsInternal.h"
+        },
+        {
+          'type': 'file',
+          'name': "FirebaseCoreInternal.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FirebaseCoreInternal.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/FirebaseCoreDiagnostics/FirebaseCoreDiagnostics.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FIRCoreDiagnistics.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseCoreDiagnostics/Firebase/CoreDiagnostics/FIRCDLibrary/Public/FIRCoreDiagnistics.h"
+        },
+        {
+          'type': 'file',
+          'name': "FirebaseCoreDiagnostics-Swift.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/FirebaseCoreDiagnostics/FirebaseCoreDiagnostics.framework/Headers/FirebaseCoreDiagnostics-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "FirebaseCoreDiagnostics-umbrella.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Target Support Files/FirebaseCoreDiagnostics/FirebaseCoreDiagnostics-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/FirebaseCoreDiagnostics/FirebaseCoreDiagnostics.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreDiagnostics.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/FirebaseInstallations/FirebaseInstallations.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FIRInstallations.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallations.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRInstallationsAuthTokenResult.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallationsAuthTokenResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRInstallationsErrors.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallationsErrors.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRInstallationsVersion.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallationsVersion.h"
+        },
+        {
+          'type': 'file',
+          'name': "FirebaseInstallations-Swift.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/FirebaseInstallations/FirebaseInstallations.framework/Headers/FirebaseInstallations-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "FirebaseInstallations-umbrella.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Target Support Files/FirebaseInstallations/FirebaseInstallations-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "FirebaseInstallations.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FirebaseInstallations.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/FirebaseInstallations/FirebaseInstallations.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/FirebaseInstallations.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/FirebaseInstallations/FirebaseInstallations.framework/PrivateHeaders",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FirebaseInstallationsInternal.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Private/FirebaseInstallationsInternal.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/FirebaseInstanceID/FirebaseInstanceID.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FIRInstanceID.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/Public/FIRInstanceID.h"
+        },
+        {
+          'type': 'file',
+          'name': "FirebaseInstanceID-Swift.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/FirebaseInstanceID/FirebaseInstanceID.framework/Headers/FirebaseInstanceID-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "FirebaseInstanceID-umbrella.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Target Support Files/FirebaseInstanceID/FirebaseInstanceID-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "FirebaseInstanceID.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/Public/FirebaseInstanceID.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/FirebaseInstanceID/FirebaseInstanceID.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/FirebaseInstanceID.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/FirebaseInstanceID/FirebaseInstanceID.framework/PrivateHeaders",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FIRInstanceID+Private.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/Private/FIRInstanceID+Private.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRInstanceIDCheckinPreferences.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/Private/FIRInstanceIDCheckinPreferences.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRInstanceID_Private.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseInstanceID/Firebase/InstanceID/Private/FIRInstanceID_Private.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/FirebaseMessaging/FirebaseMessaging.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FIRMessaging.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Public/FIRMessaging.h"
+        },
+        {
+          'type': 'file',
+          'name': "FIRMessagingExtensionHelper.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Public/FIRMessagingExtensionHelper.h"
+        },
+        {
+          'type': 'file',
+          'name': "FirebaseMessaging-Swift.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/FirebaseMessaging/FirebaseMessaging.framework/Headers/FirebaseMessaging-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "FirebaseMessaging-umbrella.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Target Support Files/FirebaseMessaging/FirebaseMessaging-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "FirebaseMessaging.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Public/FirebaseMessaging.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/FirebaseMessaging/FirebaseMessaging.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/FirebaseMessaging.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/GoogleDataTransport/GoogleDataTransport.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "GDTCORAssert.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCORAssert.h"
+        },
+        {
+          'type': 'file',
+          'name': "GDTCORClock.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCORClock.h"
+        },
+        {
+          'type': 'file',
+          'name': "GDTCORConsoleLogger.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCORConsoleLogger.h"
+        },
+        {
+          'type': 'file',
+          'name': "GDTCOREvent.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCOREvent.h"
+        },
+        {
+          'type': 'file',
+          'name': "GDTCOREventDataObject.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCOREventDataObject.h"
+        },
+        {
+          'type': 'file',
+          'name': "GDTCOREventTransformer.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCOREventTransformer.h"
+        },
+        {
+          'type': 'file',
+          'name': "GDTCORLifecycle.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCORLifecycle.h"
+        },
+        {
+          'type': 'file',
+          'name': "GDTCORPlatform.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCORPlatform.h"
+        },
+        {
+          'type': 'file',
+          'name': "GDTCORReachability.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCORReachability.h"
+        },
+        {
+          'type': 'file',
+          'name': "GDTCORRegistrar.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCORRegistrar.h"
+        },
+        {
+          'type': 'file',
+          'name': "GDTCORStorageEventSelector.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCORStorageEventSelector.h"
+        },
+        {
+          'type': 'file',
+          'name': "GDTCORStorageProtocol.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCORStorageProtocol.h"
+        },
+        {
+          'type': 'file',
+          'name': "GDTCORTargets.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCORTargets.h"
+        },
+        {
+          'type': 'file',
+          'name': "GDTCORTransport.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCORTransport.h"
+        },
+        {
+          'type': 'file',
+          'name': "GDTCORUploader.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCORUploader.h"
+        },
+        {
+          'type': 'file',
+          'name': "GoogleDataTransport-Swift.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/GoogleDataTransport/GoogleDataTransport.framework/Headers/GoogleDataTransport-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "GoogleDataTransport-umbrella.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Target Support Files/GoogleDataTransport/GoogleDataTransport-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "GoogleDataTransport.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GoogleDataTransport.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/GoogleDataTransport/GoogleDataTransport.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/GoogleDataTransport.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/GoogleUtilities/GoogleUtilities.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "GULLoggerCodes.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleUtilities/GoogleUtilities/Common/GULLoggerCodes.h"
+        },
+        {
+          'type': 'file',
+          'name': "GULLoggerLevel.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleUtilities/GoogleUtilities/Logger/Public/GULLoggerLevel.h"
+        },
+        {
+          'type': 'file',
+          'name': "GULNSData+zlib.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleUtilities/GoogleUtilities/NSData+zlib/Public/GULNSData+zlib.h"
+        },
+        {
+          'type': 'file',
+          'name': "GoogleUtilities-Swift.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/GoogleUtilities/GoogleUtilities.framework/Headers/GoogleUtilities-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "GoogleUtilities-umbrella.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Target Support Files/GoogleUtilities/GoogleUtilities-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/GoogleUtilities/GoogleUtilities.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/GoogleUtilities.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/GoogleUtilities/GoogleUtilities.framework/PrivateHeaders",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "GULAppDelegateSwizzler.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleUtilities/GoogleUtilities/AppDelegateSwizzler/Private/GULAppDelegateSwizzler.h"
+        },
+        {
+          'type': 'file',
+          'name': "GULAppEnvironmentUtil.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Private/GULAppEnvironmentUtil.h"
+        },
+        {
+          'type': 'file',
+          'name': "GULApplication.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleUtilities/GoogleUtilities/AppDelegateSwizzler/Private/GULApplication.h"
+        },
+        {
+          'type': 'file',
+          'name': "GULHeartbeatDateStorage.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Private/GULHeartbeatDateStorage.h"
+        },
+        {
+          'type': 'file',
+          'name': "GULKeychainStorage.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Private/GULKeychainStorage.h"
+        },
+        {
+          'type': 'file',
+          'name': "GULKeychainUtils.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Private/GULKeychainUtils.h"
+        },
+        {
+          'type': 'file',
+          'name': "GULLogger.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleUtilities/GoogleUtilities/Logger/Private/GULLogger.h"
+        },
+        {
+          'type': 'file',
+          'name': "GULMutableDictionary.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Private/GULMutableDictionary.h"
+        },
+        {
+          'type': 'file',
+          'name': "GULNSDataInternal.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleUtilities/GoogleUtilities/NSData+zlib/Private/GULNSDataInternal.h"
+        },
+        {
+          'type': 'file',
+          'name': "GULNetwork.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Private/GULNetwork.h"
+        },
+        {
+          'type': 'file',
+          'name': "GULNetworkConstants.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Private/GULNetworkConstants.h"
+        },
+        {
+          'type': 'file',
+          'name': "GULNetworkLoggerProtocol.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Private/GULNetworkLoggerProtocol.h"
+        },
+        {
+          'type': 'file',
+          'name': "GULNetworkMessageCode.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Private/GULNetworkMessageCode.h"
+        },
+        {
+          'type': 'file',
+          'name': "GULNetworkURLSession.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Private/GULNetworkURLSession.h"
+        },
+        {
+          'type': 'file',
+          'name': "GULOriginalIMPConvenienceMacros.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleUtilities/GoogleUtilities/MethodSwizzler/Private/GULOriginalIMPConvenienceMacros.h"
+        },
+        {
+          'type': 'file',
+          'name': "GULReachabilityChecker.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleUtilities/GoogleUtilities/Reachability/Private/GULReachabilityChecker.h"
+        },
+        {
+          'type': 'file',
+          'name': "GULReachabilityMessageCode.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleUtilities/GoogleUtilities/Reachability/Private/GULReachabilityMessageCode.h"
+        },
+        {
+          'type': 'file',
+          'name': "GULSceneDelegateSwizzler.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleUtilities/GoogleUtilities/SceneDelegateSwizzler/Private/GULSceneDelegateSwizzler.h"
+        },
+        {
+          'type': 'file',
+          'name': "GULSecureCoding.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Private/GULSecureCoding.h"
+        },
+        {
+          'type': 'file',
+          'name': "GULSwizzler.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleUtilities/GoogleUtilities/MethodSwizzler/Private/GULSwizzler.h"
+        },
+        {
+          'type': 'file',
+          'name': "GULUserDefaults.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/GoogleUtilities/GoogleUtilities/UserDefaults/Private/GULUserDefaults.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/Pods_Runner.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-Runner-umbrella.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_Runner-Swift.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/Pods_Runner.framework/Headers/Pods_Runner-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/Pods_Runner.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/Pods-Runner.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FBLPromises-Swift.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromises-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "PromisesObjC-umbrella.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Target Support Files/PromisesObjC/PromisesObjC-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/PromisesObjC.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/Protobuf/Protobuf.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Any.pbobjc.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/google/protobuf/Any.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "Api.pbobjc.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/google/protobuf/Api.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "Duration.pbobjc.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/google/protobuf/Duration.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "Empty.pbobjc.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/google/protobuf/Empty.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "FieldMask.pbobjc.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/google/protobuf/FieldMask.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBAny.pbobjc.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBAny.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBApi.pbobjc.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBApi.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBArray.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBArray.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBArray_PackagePrivate.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBArray_PackagePrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBBootstrap.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBBootstrap.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBCodedInputStream.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBCodedInputStream.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBCodedInputStream_PackagePrivate.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBCodedInputStream_PackagePrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBCodedOutputStream.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBCodedOutputStream.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBCodedOutputStream_PackagePrivate.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBCodedOutputStream_PackagePrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBDescriptor.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBDescriptor.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBDescriptor_PackagePrivate.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBDescriptor_PackagePrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBDictionary.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBDictionary.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBDictionary_PackagePrivate.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBDictionary_PackagePrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBDuration.pbobjc.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBDuration.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBEmpty.pbobjc.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBEmpty.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBExtensionInternals.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBExtensionInternals.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBExtensionRegistry.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBExtensionRegistry.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBFieldMask.pbobjc.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBFieldMask.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBMessage.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBMessage.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBMessage_PackagePrivate.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBMessage_PackagePrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBProtocolBuffers.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBProtocolBuffers.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBProtocolBuffers_RuntimeSupport.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBProtocolBuffers_RuntimeSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBRootObject.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBRootObject.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBRootObject_PackagePrivate.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBRootObject_PackagePrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBRuntimeTypes.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBRuntimeTypes.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBSourceContext.pbobjc.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBSourceContext.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBStruct.pbobjc.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBStruct.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBTimestamp.pbobjc.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBTimestamp.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBType.pbobjc.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBType.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBUnknownField.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBUnknownField.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBUnknownFieldSet.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBUnknownFieldSet.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBUnknownFieldSet_PackagePrivate.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBUnknownFieldSet_PackagePrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBUnknownField_PackagePrivate.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBUnknownField_PackagePrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBUtilities.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBUtilities.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBUtilities_PackagePrivate.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBUtilities_PackagePrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBWellKnownTypes.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBWellKnownTypes.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBWireFormat.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBWireFormat.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBWrappers.pbobjc.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/GPBWrappers.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "Protobuf-Swift.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/Protobuf/Protobuf.framework/Headers/Protobuf-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Protobuf-umbrella.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Target Support Files/Protobuf/Protobuf-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "SourceContext.pbobjc.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/google/protobuf/SourceContext.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "Struct.pbobjc.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/google/protobuf/Struct.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "Timestamp.pbobjc.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/google/protobuf/Timestamp.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "Type.pbobjc.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/google/protobuf/Type.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "Wrappers.pbobjc.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Protobuf/objectivec/google/protobuf/Wrappers.pbobjc.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/Protobuf/Protobuf.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/Protobuf.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/firebase_messaging/firebase_messaging.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FLTFirebaseMessagingPlugin.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-6.0.15/ios/Classes/FLTFirebaseMessagingPlugin.h"
+        },
+        {
+          'type': 'file',
+          'name': "firebase_messaging-Swift.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/firebase_messaging/firebase_messaging.framework/Headers/firebase_messaging-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "firebase_messaging-umbrella.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Target Support Files/firebase_messaging/firebase_messaging-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/firebase_messaging/firebase_messaging.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/firebase_messaging.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/flutter_inappbrowser/flutter_inappbrowser.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "InAppBrowserFlutterPlugin.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_inappbrowser-2.0.2/ios/Classes/InAppBrowserFlutterPlugin.h"
+        },
+        {
+          'type': 'file',
+          'name': "flutter_inappbrowser-Swift.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/flutter_inappbrowser/flutter_inappbrowser.framework/Headers/flutter_inappbrowser-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "flutter_inappbrowser-umbrella.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Target Support Files/flutter_inappbrowser/flutter_inappbrowser-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/flutter_inappbrowser/flutter_inappbrowser.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/flutter_inappbrowser.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/fluttertoast/fluttertoast.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FluttertoastPlugin.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-4.0.1/ios/Classes/FluttertoastPlugin.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+Toast.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-4.0.1/ios/Classes/UIView+Toast.h"
+        },
+        {
+          'type': 'file',
+          'name': "fluttertoast-Swift.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/fluttertoast/fluttertoast.framework/Headers/fluttertoast-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "fluttertoast-umbrella.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Target Support Files/fluttertoast/fluttertoast-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/fluttertoast/fluttertoast.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/fluttertoast.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/geolocator/geolocator.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "CLLocation_Extensions.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.2+2/ios/Classes/Extensions/CLLocation_Extensions.h"
+        },
+        {
+          'type': 'file',
+          'name': "CLPlacemark_Extensions.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.2+2/ios/Classes/Extensions/CLPlacemark_Extensions.h"
+        },
+        {
+          'type': 'file',
+          'name': "CalculateDistanceTask.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.2+2/ios/Classes/Tasks/CalculateDistanceTask.h"
+        },
+        {
+          'type': 'file',
+          'name': "GeocodeTask.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.2+2/ios/Classes/Tasks/GeocodeTask.h"
+        },
+        {
+          'type': 'file',
+          'name': "GeolocatorPlugin.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.2+2/ios/Classes/GeolocatorPlugin.h"
+        },
+        {
+          'type': 'file',
+          'name': "LastKnownLocationTask.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.2+2/ios/Classes/Tasks/LastKnownLocationTask.h"
+        },
+        {
+          'type': 'file',
+          'name': "LocationOptions.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.2+2/ios/Classes/Data/LocationOptions.h"
+        },
+        {
+          'type': 'file',
+          'name': "LocationTask.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.2+2/ios/Classes/Tasks/LocationTask.h"
+        },
+        {
+          'type': 'file',
+          'name': "Task.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.2+2/ios/Classes/Tasks/Task.h"
+        },
+        {
+          'type': 'file',
+          'name': "TaskContext.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.2+2/ios/Classes/Tasks/TaskContext.h"
+        },
+        {
+          'type': 'file',
+          'name': "TaskProtocol.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.2+2/ios/Classes/Tasks/TaskProtocol.h"
+        },
+        {
+          'type': 'file',
+          'name': "geolocator-Swift.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/geolocator/geolocator.framework/Headers/geolocator-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "geolocator-umbrella.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Target Support Files/geolocator/geolocator-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/geolocator/geolocator.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/geolocator.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/google_map_location_picker/google_map_location_picker.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "GoogleMapLocationPickerPlugin.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/google_map_location_picker-3.3.3/ios/Classes/GoogleMapLocationPickerPlugin.h"
+        },
+        {
+          'type': 'file',
+          'name': "google_map_location_picker-Swift.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/google_map_location_picker/google_map_location_picker.framework/Headers/google_map_location_picker-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "google_map_location_picker-umbrella.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Target Support Files/google_map_location_picker/google_map_location_picker-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/google_map_location_picker/google_map_location_picker.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/google_map_location_picker.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/google_maps_flutter/google_maps_flutter.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FLTGoogleMapsPlugin.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.30/ios/Classes/FLTGoogleMapsPlugin.h"
+        },
+        {
+          'type': 'file',
+          'name': "GoogleMapCircleController.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.30/ios/Classes/GoogleMapCircleController.h"
+        },
+        {
+          'type': 'file',
+          'name': "GoogleMapController.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.30/ios/Classes/GoogleMapController.h"
+        },
+        {
+          'type': 'file',
+          'name': "GoogleMapMarkerController.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.30/ios/Classes/GoogleMapMarkerController.h"
+        },
+        {
+          'type': 'file',
+          'name': "GoogleMapPolygonController.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.30/ios/Classes/GoogleMapPolygonController.h"
+        },
+        {
+          'type': 'file',
+          'name': "GoogleMapPolylineController.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.30/ios/Classes/GoogleMapPolylineController.h"
+        },
+        {
+          'type': 'file',
+          'name': "JsonConversions.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.30/ios/Classes/JsonConversions.h"
+        },
+        {
+          'type': 'file',
+          'name': "google_maps_flutter-Swift.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/google_maps_flutter/google_maps_flutter.framework/Headers/google_maps_flutter-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "google_maps_flutter-umbrella.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Target Support Files/google_maps_flutter/google_maps_flutter-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/google_maps_flutter/google_maps_flutter.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/google_maps_flutter.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/location/location.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "LocationPlugin.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/location-3.0.2/ios/Classes/LocationPlugin.h"
+        },
+        {
+          'type': 'file',
+          'name': "location-Swift.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/location/location.framework/Headers/location-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "location-umbrella.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Target Support Files/location/location-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/location/location.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/location.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/location_permissions/location_permissions.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Enums.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/location_permissions-3.0.0+1/ios/Classes/Enums.h"
+        },
+        {
+          'type': 'file',
+          'name': "LocationPermissionsPlugin.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/location_permissions-3.0.0+1/ios/Classes/LocationPermissionsPlugin.h"
+        },
+        {
+          'type': 'file',
+          'name': "location_permissions-Swift.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/location_permissions/location_permissions.framework/Headers/location_permissions-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "location_permissions-umbrella.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Target Support Files/location_permissions/location_permissions-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/location_permissions/location_permissions.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/location_permissions.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/nanopb/nanopb.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "nanopb-Swift.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/nanopb/nanopb.framework/Headers/nanopb-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "nanopb-umbrella.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Target Support Files/nanopb/nanopb-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "pb.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/nanopb/pb.h"
+        },
+        {
+          'type': 'file',
+          'name': "pb_common.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/nanopb/pb_common.h"
+        },
+        {
+          'type': 'file',
+          'name': "pb_decode.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/nanopb/pb_decode.h"
+        },
+        {
+          'type': 'file',
+          'name': "pb_encode.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/nanopb/pb_encode.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/nanopb/nanopb.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/nanopb.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/package_info/package_info.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FLTPackageInfoPlugin.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/package_info-0.4.3/ios/Classes/FLTPackageInfoPlugin.h"
+        },
+        {
+          'type': 'file',
+          'name': "package_info-Swift.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/package_info/package_info.framework/Headers/package_info-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "package_info-umbrella.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Target Support Files/package_info/package_info-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/package_info/package_info.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/package_info.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/path_provider/path_provider.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FLTPathProviderPlugin.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.18/ios/Classes/FLTPathProviderPlugin.h"
+        },
+        {
+          'type': 'file',
+          'name': "path_provider-Swift.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/path_provider/path_provider.framework/Headers/path_provider-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "path_provider-umbrella.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Target Support Files/path_provider/path_provider-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/path_provider/path_provider.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/path_provider.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/screen/screen.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "ScreenPlugin.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/screen-0.0.5/ios/Classes/ScreenPlugin.h"
+        },
+        {
+          'type': 'file',
+          'name': "screen-Swift.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/screen/screen.framework/Headers/screen-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "screen-umbrella.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Target Support Files/screen/screen-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/screen/screen.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/screen.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/shared_preferences/shared_preferences.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FLTSharedPreferencesPlugin.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.10/ios/Classes/FLTSharedPreferencesPlugin.h"
+        },
+        {
+          'type': 'file',
+          'name': "shared_preferences-Swift.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/shared_preferences/shared_preferences.framework/Headers/shared_preferences-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "shared_preferences-umbrella.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Target Support Files/shared_preferences/shared_preferences-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/shared_preferences/shared_preferences.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/shared_preferences.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/sqflite/sqflite.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SqfliteOperation.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-1.3.1+1/ios/Classes/SqfliteOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "SqflitePlugin.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-1.3.1+1/ios/Classes/SqflitePlugin.h"
+        },
+        {
+          'type': 'file',
+          'name': "sqflite-Swift.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/sqflite/sqflite.framework/Headers/sqflite-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "sqflite-umbrella.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Target Support Files/sqflite/sqflite-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/sqflite/sqflite.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/sqflite.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/url_launcher/url_launcher.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FLTURLLauncherPlugin.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.5.0/ios/Classes/FLTURLLauncherPlugin.h"
+        },
+        {
+          'type': 'file',
+          'name': "url_launcher-Swift.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/url_launcher/url_launcher.framework/Headers/url_launcher-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "url_launcher-umbrella.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Target Support Files/url_launcher/url_launcher-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/url_launcher/url_launcher.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/url_launcher.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/video_player/video_player.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FLTVideoPlayerPlugin.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/video_player-0.10.12+4/ios/Classes/FLTVideoPlayerPlugin.h"
+        },
+        {
+          'type': 'file',
+          'name': "messages.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/video_player-0.10.12+4/ios/Classes/messages.h"
+        },
+        {
+          'type': 'file',
+          'name': "video_player-Swift.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/video_player/video_player.framework/Headers/video_player-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "video_player-umbrella.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Target Support Files/video_player/video_player-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/video_player/video_player.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/video_player.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/wakelock/wakelock.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "WakelockPlugin.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/wakelock-0.1.4+2/ios/Classes/WakelockPlugin.h"
+        },
+        {
+          'type': 'file',
+          'name': "wakelock-Swift.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/wakelock/wakelock.framework/Headers/wakelock-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "wakelock-umbrella.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Target Support Files/wakelock/wakelock-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/wakelock/wakelock.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/wakelock.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/webview_flutter/webview_flutter.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FLTCookieManager.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter-0.3.24/ios/Classes/FLTCookieManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "FLTWKNavigationDelegate.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter-0.3.24/ios/Classes/FLTWKNavigationDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "FLTWebViewFlutterPlugin.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter-0.3.24/ios/Classes/FLTWebViewFlutterPlugin.h"
+        },
+        {
+          'type': 'file',
+          'name': "FlutterWebView.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter-0.3.24/ios/Classes/FlutterWebView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JavaScriptChannelHandler.h",
+          'external-contents': "/Users/waqas/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter-0.3.24/ios/Classes/JavaScriptChannelHandler.h"
+        },
+        {
+          'type': 'file',
+          'name': "webview_flutter-Swift.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/webview_flutter/webview_flutter.framework/Headers/webview_flutter-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "webview_flutter-umbrella.h",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/Pods/Target Support Files/webview_flutter/webview_flutter-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Debug-iphonesimulator/webview_flutter/webview_flutter.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/waqas/Downloads/SathyanUsersAndroid/SathyanUsers/ios/build/Pods.build/Debug-iphonesimulator/webview_flutter.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
